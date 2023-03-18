@@ -3,7 +3,7 @@
 ### This is my course project of DeepLearning
 ### Our topic is Classification and Segmentation in 4 Vietnamese Food
 ### ⛔️ Attention: This repo is part 2 of our project. This one only have source code of Demo App. 
-### 👉 Please follow this link to get part1: 
+### 👉 Please follow this link to get part1: https://github.com/Harly-1506/4VNfoods_Project 
 
 
 ## What is it?
